@@ -79,6 +79,7 @@ float: right;
     margin-top: 41px;
 }
 #check{
+    margin-top: 20px;
     padding: 35px;
     padding-left: 60px;
     box-shadow: 2px 7px lightgrey;
@@ -102,6 +103,30 @@ background-image: url(../img/list-bg.png);
    
 }
 footer{
+    margin-top: 20px;
     width: 60%;
     margin-left: 20%;
 }
+#logof {
+    display: inline-block;
+    margin-top: 20px;
+}
+ #logof img {
+    position: absolute;
+}
+#logoftext{
+    
+    margin-left: 90px;
+    margin-top: 0px;}
+
+    #divnav2{
+        background:#BC7058;
+        text-align: center;
+        float: right;
+        margin-left: 0px;
+        margin-top: 35px;
+border: 2px solid #BC7058;
+width: 200px;
+height: 50px;
+padding-top: 15px;
+    }
